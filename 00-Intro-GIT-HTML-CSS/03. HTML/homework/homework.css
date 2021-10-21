@@ -1,0 +1,18 @@
+h1{
+    color: violet;
+}
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: thistle;
+    padding: 50px;
+    border: 5px solid rebeccapurple;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
